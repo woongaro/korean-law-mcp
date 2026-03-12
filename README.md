@@ -2,6 +2,11 @@
 
 대한민국 법령, 판례, 헌법재판소 결정을 검색할 수 있는 MCP(Model Context Protocol) 서버입니다.
 
+
+<img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/7f019679-a7b9-456d-89e4-7303397eaa1f" />
+
+
+
 ## 📋 제공 도구
 
 | 도구명 | 설명 | 데이터 출처 |
